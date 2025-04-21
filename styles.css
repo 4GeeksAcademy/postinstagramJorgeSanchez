@@ -1,0 +1,64 @@
+body{background-color: black;
+    margin:none;
+    padding: 400px;
+    justify-content:center;
+    display: flex;
+}
+
+
+.post{
+width: 400px;
+height: 470px;
+   display:center;
+   background-color:white;
+    flex-direction:row;
+   
+  
+}
+.header{
+display: flex;
+}
+.iconheader1{
+    padding: 10px;
+    height: 10px;
+}
+.iconheader2{
+    font-size: 10px;
+
+}
+.iconheader3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:291px;
+}
+.img{
+    
+    margin: none;
+}
+.icons{
+    display: flex;
+    
+}
+.icons1{
+    padding: 4px;
+}
+.icons2{
+    padding: 4px;
+}
+.icons3{
+    padding: 4px;
+}
+.icons4{
+  padding-left: 300px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.text{
+    font-size:  13px;
+    text-align:left;
+    display:flex;
+    padding-top: 7px;
+    padding-left: 10px;
+    padding-right:4px;
+  
+}
